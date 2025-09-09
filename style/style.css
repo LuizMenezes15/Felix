@@ -1,0 +1,78 @@
+body {
+    margin: 0;
+    border: 0;
+    background-image: url(../img/galaxia.png)
+
+}
+
+.card_main {
+    margin: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border: 2px solid rgb(103, 2, 91);
+    padding: 120px;
+    padding-bottom: 120px;
+    padding-left: 340px;
+    padding-right: 340px;
+}
+
+.organiza {
+ 
+margin-top: 25px;
+margin-left: 180px;
+margin-right: 180px;
+margin-bottom: 25px;
+
+
+
+
+
+border: 2px solid blue;
+
+padding-top: 50px;
+padding-left: 150px;
+padding-right: 150px;
+padding-bottom: 50px;
+
+}
+
+.organiza1{
+     display: flex;
+    flex-direction: row;
+    margin: 25px;
+
+}
+
+.organiza2{
+     display: flex;
+    flex-direction: row;
+    margin: 25px;
+
+}
+
+.organiza3{
+     display: flex;
+    flex-direction: row;
+    margin: 25px;
+
+}
+
+.organiza4{
+     display: flex;
+    flex-direction: row;
+    margin: 25px;
+
+}
+
+.header{
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 40px;
+    flex-wrap: wrap;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    z-index: 1100;
+}
